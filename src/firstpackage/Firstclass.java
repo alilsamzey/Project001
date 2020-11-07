@@ -6,6 +6,7 @@ public class Firstclass {
 	
 		
 		System.out.println("First commit from local master");
+		System.out.println("First commit from git master");
 	}
 
 }
